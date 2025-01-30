@@ -1,4 +1,4 @@
-##👋 Hello, I'm Akash Soneji!
+#👋 Hello, I'm Akash Soneji!
 
 ![Header Image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTUza3htM2NmbGNia255cXVmZWN5M2UxcmUzeHNpeGlvNmhicmZkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mp3y4McLBLA1W/giphy.gif)
 
