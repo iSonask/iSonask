@@ -26,7 +26,6 @@ When I’m not coding, I enjoy **Exploring Mountains**. I'm always eager to conn
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)
 
 ## 📫 Let's Connect!
 
